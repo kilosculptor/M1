@@ -1,5 +1,13 @@
 # M1
 
+## Basic Programs
+
+```shell
+brew update & brew upgrade;
+brew install coreutils tree ripgrep git-delta
+```
+
+
 <br />
 
 ## Defaults
