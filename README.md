@@ -4,7 +4,7 @@
 
 ```shell
 brew update & brew upgrade;
-brew install coreutils tree ripgrep git-delta
+brew install coreutils tree ripgrep git-delta diff-so-fancy
 ```
 
 
